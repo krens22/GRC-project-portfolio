@@ -12,7 +12,7 @@ considerations given the client's in-house AI risk-scoring model.
 ## Scenario
 Nothbridge Analytics is a 60-person B2B SaaS company that has a deadline for acheieving the ISO 27001 cert in 9 months. The company is Toronto-based and provides predictive data analytics to financial and insurance sectors. The company's platform ingests client transaction and account data to generate risk-scoring outputs. These results are used by the clients in underwriting and fraud review workflows.
 
-### Size
+### Size 
 ~60 employees across engineering(25), sales and customer success(10), data and analytics(8), people and operations(5) and other executive roles. 
 ### Structure
 The company operates on a remote-first model, with employees distributed across Canada and a small US presence.
