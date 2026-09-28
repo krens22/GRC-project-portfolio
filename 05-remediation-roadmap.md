@@ -5,7 +5,14 @@
 1. **Governance first**. Policies, roles, and the risk assessment come before technical fixes. Auditors check the ISMS itself (Clauses 4-10) as well as the controls, and most later controls need a policy to point to.
 2. **Quick wins early**. Cheap, fast fixes that remove the worst risks (revoking old access, turning on MFA) go in the first phase. They cut real risk immediately, and they show leadership visible progress.
 3. **Evidence takes time**. ISO auditors want proof that controls have been operating, such as access reviews actually performed, training completed, or an incident drill run. That means controls must be in place months before the audit, so anything with a "must show it working" requirement has to start early.
-  
+
+A real register usually has a few more columns than ours. The main ones are:
+
+Risk treatment: what the company decides to do (mitigate, accept, transfer, or avoid)
+Status: open, in progress, or closed
+Residual risk: the score after the fix is in place
+
+**Our register skips those on purpose, because treatment decisions belong in Section 5 (the Remediation Roadmap), and residual risk only makes sense once controls are implemented. Being able to say that in an interview shows you understand how the sections connect**
 </p>
 </details>
 
