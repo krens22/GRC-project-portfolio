@@ -7,6 +7,16 @@
   </p>
 </details>
 
+### Findings
+- No formal AI risk or impact assessement has been conducted on the model since it was developed.
+- There is no documentation describing the model's intended use, limitations, training data provenance, or known failure modes.
+- No bias or fairness testing has been performed, despite the model's outputs directly influencing financial decisions about individuals in a regulated industry context.
+- No process exists to monitor for model drift (degrading accuracy over time as real-world data shifts from training data), nor a defined retraining or revalidation schedule.
+- There is no documented human oversight mechanism — it is unclear whether a human reviews or can override a risk score before it affects a client-facing decision, or whether the model's outputs are treated as final.
+- No mechanism exists for an affected individual (e.g., a policyholder flagged by the model) to contest or seek explanation for a decision influenced by the model's output.
+
+AI System Description: Northbridge's risk-scoring model is an in-house predictive model trained on aggregated historical client transaction data, deployed for approximately 18 months, and used directly in client underwriting and fraud-review decisions.
+
 | Control Area | Requirement | Finding Reference | Rating | Justification |
 |---|---|---|---|---|
 | AI Risk Assessment | Formal assessment of AI system risks and impacts | No risk/impact assessment ever conducted | Not Started | No process exists to evaluate risks the model poses, despite 18 months in production making high-stakes financial decisions. This is the foundational control — without it, none of the downstream controls (bias testing, monitoring) have anywhere to anchor their priorities. |
