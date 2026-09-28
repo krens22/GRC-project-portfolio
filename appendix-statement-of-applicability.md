@@ -1,6 +1,5 @@
 <details>
 <summary>Footnotes</summary>
-
 <p>
 - The SoA is the single most important document in an ISO 27001 audit. 
 - It's the master list of all 93 Annex A controls where Northbridge states, for each one: is it applicable, why or why not, and what's the implementation status.
@@ -11,7 +10,7 @@
 
 - Why some rows say "Unable to Assess → In Progress" instead of picking one. The SoA is a living document across the whole 9-month project, not a single point-in-time snapshot. Where Section 3 found "Unable to Assess" because information was genuinely missing, the SoA tracks that the investigation itself is a Phase 2 action item — it shows the reader not just where things stand today, but that there's a plan to resolve the unknowns, not just a shrug.
 </p>
-</detail>
+</details>
 
 ## Appendix — Statement of Applicability
 
