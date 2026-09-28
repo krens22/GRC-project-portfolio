@@ -1,4 +1,4 @@
-<detail>
+<details>
 <summary>Footnotes</summary>
 
   <p>
