@@ -28,6 +28,8 @@ The company operates on a remote-first model, with employees distributed across 
 ### Assessment history
 - An external vendor security review conducted approximately 8 months ago identified the absence of a documented incident response plan and a formal access review process.
 - These findings were acknowledged internally but have not yet been remediated.
+### AI system description
+- Northbridge's risk scoring model is an in-house predictive model trained on aggregated historical client transaction data, deployed for approximately 18 months, and used directly in client underwriting and fraud-review decisions.
 
 ## Contents
 | Section | Description |
