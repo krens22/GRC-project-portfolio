@@ -1,4 +1,11 @@
 ## Gap Analysis: ISO 42001 AI Governance
+<details>
+  <summary>Footnotes</summary>
+  <p>
+- ISO 42001 asks a different question about the same AI system: is the AI's behavior understood, monitored, and accountable?
+- A system can be perfectly secure (locked down, encrypted, access-controlled) and still be an ungoverned AI risk — nobody tested it for bias, nobody can explain why it flagged a specific transaction, nobody's watching whether its accuracy is degrading over time. That's the gap 42001 exists to close.
+  </p>
+</details>
 
 | Control Area | Requirement | Finding Reference | Rating | Justification |
 |---|---|---|---|---|
