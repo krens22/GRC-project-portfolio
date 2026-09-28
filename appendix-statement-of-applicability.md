@@ -1,6 +1,7 @@
 <detail>
 <summary>Footnotes</summary>
-<p>
+
+  <p>
 - The SoA is the single most important document in an ISO 27001 audit. 
 - It's the master list of all 93 Annex A controls where Northbridge states, for each one: is it applicable, why or why not, and what's the implementation status.
 - Auditors use it as their checklist during certification — if a control is marked "applicable" in the SoA but there's no evidence it's actually implemented, that's an audit finding. If a control is marked "not applicable" with a weak justification, the auditor will challenge it directly.
@@ -9,7 +10,7 @@
 - Why A.7 (Physical) is "Not Applicable" here, but justified through inheritance, not exclusion. This is a common and defensible pattern for cloud-only companies: Northbridge doesn't own physical infrastructure, so it can't implement physical controls directly — but it isn't off the hook. The justification explicitly says physical security is inherited from AWS's own certifications. A weak SoA would just say "N/A — we're cloud-based" and stop there; a strong one says where that responsibility now sits, because an auditor's next question is always "how do you know AWS actually has that covered?" — the answer being a supplier review (A.5.19-22), which is why that control is marked Yes.
 
 - Why some rows say "Unable to Assess → In Progress" instead of picking one. The SoA is a living document across the whole 9-month project, not a single point-in-time snapshot. Where Section 3 found "Unable to Assess" because information was genuinely missing, the SoA tracks that the investigation itself is a Phase 2 action item — it shows the reader not just where things stand today, but that there's a plan to resolve the unknowns, not just a shrug.
-</p>
+ </p>
 </detail>
 
 ## Appendix — Statement of Applicability
