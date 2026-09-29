@@ -7,7 +7,7 @@ It follows the logic of a real risk assessment: what are we assessing and why (S
 
 ## Company Fact sheet
 
-|| Item | Detail |
+| Item | Detail |
 |---|---|
 | Legal name | Harborline Health Systems Inc. |
 | Headquarters | Toronto, Ontario (downtown office), hybrid workforce |
