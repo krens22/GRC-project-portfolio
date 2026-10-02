@@ -102,11 +102,11 @@ Impact is assessed across four dimensions. The overall impact score is the **hig
 
 | Likelihood ↓ / Impact → | 1 | 2 | 3 | 4 | 5 |
 |---|---|---|---|---|---|
-| **5** | 🟨 5 | 🟧 10 | 🟧 15 | 🟥 20 | 🟥 25 |
-| **4** | 🟩 4 | 🟨 8 | 🟧 12 | 🟧 16 | 🟥 20 |
-| **3** | 🟩 3 | 🟨 6 | 🟨 9 | 🟧 12 | 🟧 15 |
-| **2** | 🟩 2 | 🟩 4 | 🟨 6 | 🟨 8 | 🟧 10 |
-| **1** | 🟩 1 | 🟩 2 | 🟩 3 | 🟩 4 | 🟨 5 |
+| **5** | 5 | 10 |  15 | 20 |  25 |
+| **4** |  4 | 8 | 12 |  16 | 20 |
+| **3** | 3 |  6 |  9 | 12 |  15 |
+| **2** |  2 | 4 |  6 |  8 |  10 |
+| **1** |  1 | 2 | 3 |  4 |  5 |
 
 ### 3.4.4 Inherent and Residual Risk
 
@@ -131,10 +131,10 @@ Risk thresholds reflect Harborline's risk appetite, meaning the level of risk th
 
 | Score | Rating | Expected response | Escalation |
 |---|---|---|---|
-| 1-4 | 🟩 Low | Accept and monitor at the next scheduled supplier review | Risk owner |
-| 5-9 | 🟨 Medium | Treatment plan agreed and completed within 12 months | Head of GRC |
-| 10-16 | 🟧 High | Treatment plan agreed within 60 days and completed within 6 months | CISO |
-| 17-25 | 🟥 Critical | Treatment plan agreed within 30 days; interim safeguards put in place immediately | Risk Committee |
+| 1-4 |  Low | Accept and monitor at the next scheduled supplier review | Risk owner |
+| 5-9 | Medium | Treatment plan agreed and completed within 12 months | Head of GRC |
+| 10-16 |  High | Treatment plan agreed within 60 days and completed within 6 months | CISO |
+| 17-25 |  Critical | Treatment plan agreed within 30 days; interim safeguards put in place immediately | Risk Committee |
 
 ### 3.5.2 Risk Acceptance Authority
 
