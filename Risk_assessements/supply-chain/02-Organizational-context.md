@@ -28,6 +28,7 @@ Harborline does not operate its platform alone. Hosting, video, messaging, payme
 | -------- | -------- | 
 | CISO | Owns security and this assessment  |  
 | Head of GRC | Reviews the report |    
+| Director of IT Operations | Manages technical supplier relationships |
 | Director of Procurement | Manages supplier contracts/relationships |    
 | Privacy Officer  |  Oversees PHIPA and PIPEDA complaince  |    
 
