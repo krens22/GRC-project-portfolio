@@ -2,7 +2,7 @@
 
 > *These excerpts were constructed for this portfolio exercise. VigilGrid Security Inc., Harcourt & Lindqvist LLP, and all report contents are fictional. They are condensed from the format of a real SOC 2 Type II report.*
 
-### A.1 Independent service auditor's report
+### A.1 Independent service auditor's report 
 
 Prepared by: Harcourt & Lindqvist LLP (fictional)
 Report type: SOC 2 Type II
