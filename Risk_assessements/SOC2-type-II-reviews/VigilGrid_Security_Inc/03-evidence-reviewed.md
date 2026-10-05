@@ -2,7 +2,7 @@
 
 | Document | Status | Notes |
 |---|---|---|
-| SOC 2 Type II report (Harcourt & Lindqvist LLP, issued June 12, 2026) | Received | Primary evidence for this review |
+| SOC 2 Type II report (Harcourt & Lindqvist LLP, issued June 12, 2026) | Received | Primary evidence for this review; see appendix A |
 | Bridge letter (covering April 1, 2026 to present) | **Not received** | Requested; see Section 4 |
 | Penetration test summary | **Not received** | Requested; independent technical evidence is not available |
 | Data processing agreement (DPA) | **Not received** | Required before onboarding because of EU employee data |
