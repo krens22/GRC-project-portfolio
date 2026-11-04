@@ -12,10 +12,13 @@ I'm a cybersecurity postgraduate student at York University with a Master's in D
 
 | Project | What I did | Link |
 |---|---|---|
-| **SOC 2 Vendor Review** | Reviewed a vendor's SOC 2 report and documented gaps | [Read](soc2-review.md) |
-| **Control Crosswalk** | Mapped controls across SOC 2, ISO 27001, PCI DSS, and GDPR | [Read](crosswalk.md) |
+| **ISO Gap Assessment** | Built a vendor risk program and a privacy impact assessment | [Read](ISO_assessements/ISO-42001) |
+| **SOC 2 Vendor Review** | Reviewed a vendor's SOC 2 report and documented gaps | [Read](Risk_assessements/SOC2-type-II-reviews/VigilGrid_Security_Inc) |
+| **Control Crosswalk** | Mapped controls across SOC 2, ISO 27001, PCI DSS, and GDPR | [Read](Security_control_crosswalk) |
 | **PCI DSS Vendor Review** | Found a scope gap in a payment processor's recurring billing | [Read](pci-review.md) |
-| **TPRM and DPIA** | Built a vendor risk program and a privacy impact assessment | [Read](tprm-dpia.md) |
+| **TPRM and DPIA** | Built a vendor risk program and a privacy impact assessment | [Read](Impact_assessments/DPIA) |
+| **TPRM for Supply Chain** | Built a vendor risk program and a privacy impact assessment | [Read](Risk_assessements/supply-chain/Harborline_Health_Systems_Inc) |
+
 
 ## Skills and Tools
 
