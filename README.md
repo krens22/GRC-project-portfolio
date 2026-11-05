@@ -8,7 +8,7 @@ I'm a cybersecurity postgraduate student at York University with a Master's in D
 
 > **Note:** All companies in these projects are fictional and were created for learning. No real company data is used.
 
-## Projects
+## Projects 
 
 | Project | What I did | Link |
 |---|---|---|
