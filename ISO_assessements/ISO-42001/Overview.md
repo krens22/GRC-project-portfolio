@@ -1,4 +1,6 @@
-# ISO 27001 & ISO 42001 Gap Assessment — Northbridge Analytics (Portfolio Project)
+
+# ISO 27001 & ISO 42001 Gap Assessment — Northbridge Analytics
+
 
 ## Overview
 This is a fictional GRC consulting engagement, built to demonstrate a full ISO 27001:2022 
@@ -31,16 +33,6 @@ The company operates on a remote-first model, with employees distributed across 
 ### AI system description
 - Northbridge's risk scoring model is an in-house predictive model trained on aggregated historical client transaction data, deployed for approximately 18 months, and used directly in client underwriting and fraud-review decisions.
 
-## Contents
-| Section | Description |
-|---|---|
-| [01 – Scope & Methodology](./01-scope-methodology.md) | ISMS boundary definition, assessment approach |
-| [02 – Current State Findings](./02-current-state-findings.md) | Findings by Annex A domain |
-| [03 – Gap Analysis (Annex A)](./03-gap-analysis-annex-a.md) | Current vs. Target Profile per control |
-| [04 – Risk Register](./04-risk-register.md) | Prioritized gaps with likelihood/impact |
-| [05 – Remediation Roadmap](./05-remediation-roadmap.md) | Phased 9-month plan |
-| [06 – ISO 42001 AI Governance](./06-iso42001-ai-governance.md) | AI management system gap assessment |
-| [Appendix – Statement of Applicability](./appendix-statement-of-applicability.md) | Full control applicability justification |
 
 ## Skills Demonstrated in this **Gap Assesement**
 - ISO 27001 Annex A control mapping and gap assessment
