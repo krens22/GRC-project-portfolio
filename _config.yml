@@ -1,0 +1,8 @@
+title: Karen Fernandes | GRC Portfolio
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+      
