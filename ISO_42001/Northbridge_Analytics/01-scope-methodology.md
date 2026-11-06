@@ -1,3 +1,9 @@
+---
+title: Scope and methodology
+---
+
+[Back](./)
+
 # Scope and Methodology
 
 #### what people, processes, technology, and locations touch the information/data we're trying to protect? 
