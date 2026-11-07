@@ -1,5 +1,9 @@
+[Back](./)
 ## Gap Analysis
+This section judges those observations against ISO/IEC 27001:2022 Annex A, rating how well each control is currently in place. The ratings feed the risk register in Section 4, where each gap is translated into a business risk and prioritized.
 
+
+### Scope of controls assessed
 ### A.6 People Controls
 
 | Control | Control Name | Finding Reference | Rating | Justification |
