@@ -2,12 +2,6 @@
 <summary><b>Footnotes</b></summary>
 <p>
   
-[Back](./)
-
-## Section 5: Remediation Roadmap
-
-This roadmap turns the gaps in Section 3 and the risks in Section 4 into a phased 9-month plan to reach ISO 27001 certification readiness. Actions are sequenced in three phases: foundations and quick wins (months 0-3), building operating controls (months 3-6), and proving the controls work ahead of certification (months 6-9). Governance work such as policies, roles, and the risk assessment comes first, because most technical controls depend on a policy to anchor them, and high-risk fixes that are cheap to implement, such as access cleanup and enforcing MFA, are placed early. Controls that must show evidence of operating consistently, such as training completion and access reviews, are started early enough to produce records before the certification audit. Each action lists an owner and the evidence an auditor would expect to see. Timelines are estimates and depend on Northbridge assigning dedicated people and budget to the work.
-  
 1. **Governance first**. Policies, roles, and the risk assessment come before technical fixes. Auditors check the ISMS itself (Clauses 4-10) as well as the controls, and most later controls need a policy to point to.
 2. **Quick wins early**. Cheap, fast fixes that remove the worst risks (revoking old access, turning on MFA) go in the first phase. They cut real risk immediately, and they show leadership visible progress.
 3. **Evidence takes time**. ISO auditors want proof that controls have been operating, such as access reviews actually performed, training completed, or an incident drill run. That means controls must be in place months before the audit, so anything with a "must show it working" requirement has to start early.
@@ -23,8 +17,11 @@ Residual risk: the score after the fix is in place
 </details>
 
 
-## Section 5 — Remediation Roadmap
+[Back](./)
 
+## Section 5: Remediation Roadmap
+
+This roadmap turns the gaps in Section 3 and the risks in Section 4 into a phased 9-month plan to reach ISO 27001 certification readiness. Actions are sequenced in three phases: foundations and quick wins (months 0-3), building operating controls (months 3-6), and proving the controls work ahead of certification (months 6-9). Governance work such as policies, roles, and the risk assessment comes first, because most technical controls depend on a policy to anchor them, and high-risk fixes that are cheap to implement, such as access cleanup and enforcing MFA, are placed early. Controls that must show evidence of operating consistently, such as training completion and access reviews, are started early enough to produce records before the certification audit. Each action lists an owner and the evidence an auditor would expect to see. Timelines are estimates and depend on Northbridge assigning dedicated people and budget to the work.
 ### Phase 1 (Months 0–3): Foundations and Quick Wins
 
 | # | Action | Addresses | Owner | Evidence for Auditor |
