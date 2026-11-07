@@ -34,32 +34,25 @@ A.8 Technological controls — access control, secure development, logging/monit
 
 ## Control reference
 
-🔴 Confirmed gap &nbsp; 🟡 Partly in place &nbsp; ⚪ Unknown, needs verification
+Hover over a control number for a plain-language explanation and what was found.
 
-**A.5 Organizational controls**
-
-- 🔴 <span title="A written, approved security policy. Found: none exists, only scattered unapproved Notion pages."><b>A.5.1</b> Security policy</span>
-- 🔴 <span title="Named people accountable for security, with backups. Found: one engineer does it informally, no backup.">**A.5.2** Roles and responsibilities</span>
-- 🔴 <span title="Rules on who may access what. Found: access is granted ad hoc, with no least-privilege standard."><b>A.5.15</b> Access control</span>
-- 🔴 <span title="Access is granted, reviewed and removed in a controlled way. Found: no access review process; a client flagged it and it was never actioned."><b>A.5.18</b> Access rights</span>
-- 🔴 <span title="Managing risk from vendors you depend on. Found: no supplier review, despite reliance on AWS and Okta."><b>A.5.19–22</b> Supplier relationships</span>
-- 🔴 <span title="Planning ahead for incidents. Found: no written incident response plan; flagged 8 months ago."><b>A.5.24</b> Incident planning</span>
-- 🔴 <span title="Responding to incidents by following the plan. Found: no defined process; it depends on A.5.24."><b>A.5.26</b> Incident response</span>
-
-**A.6 People controls**
-
-- 🟡 <span title="Background checks before hiring. Found: checks run for new hires, but there is no written policy."><b>A.6.1</b> Screening</span>
-- 🔴 <span title="Staff get security onboarding and regular training. Found: none described."><b>A.6.3</b> Awareness and training</span>
-- 🔴 <span title="Access and duties end properly when someone leaves. Found: no offboarding checklist."><b>A.6.5</b> After termination</span>
-
-**A.8 Technological controls**
-
-- 🔴 <span title="Laptops and phones that reach company data are secured. Found: mix of personal and company laptops, no device policy."><b>A.8.1</b> Endpoint devices</span>
-- 🟡 <span title="Admin access is limited and controlled. Found: Okta covers most tools; legacy dashboards sit outside it."><b>A.8.2</b> Privileged access</span>
-- 🟡 <span title="Secure logins such as SSO and MFA. Found: Okta covers most tools, not all; MFA coverage unconfirmed."><b>A.8.5</b> Secure authentication</span>
-- ⚪ <span title="Systems built from a secure, documented baseline. Unknown: Terraform is used, but baselines are unconfirmed."><b>A.8.9</b> Configuration management</span>
-- ⚪ <span title="Events are logged for later investigation. Unknown: nobody has confirmed what is logged."><b>A.8.15</b> Logging</span>
-- 🔴 <span title="Unusual activity is watched for. Found: the company cannot confirm whether it has had an incident, which suggests no monitoring."><b>A.8.16</b> Monitoring</span>
-- ⚪ <span title="Security is built into software development. Unknown: CI/CD exists, but enforcement is unconfirmed."><b>A.8.25</b> Secure development</span>
-- ⚪ <span title="Defined secure coding practices. Unknown: no information on standards or scanning."><b>A.8.28</b> Secure coding</span>
-
+| Control | Name | Status |
+|---|---|---|
+| <abbr title="A written, approved security policy. Found: none exists, only scattered unapproved Notion pages.">A.5.1</abbr> | Security policy | Gap |
+| <abbr title="Named people accountable for security, with backups. Found: one engineer does it informally, with no backup.">A.5.2</abbr> | Roles and responsibilities | Gap |
+| <abbr title="Rules on who may access what. Found: access is granted ad hoc, with no least-privilege standard.">A.5.15</abbr> | Access control | Gap |
+| <abbr title="Access is granted, reviewed and removed in a controlled way. Found: no access review process.">A.5.18</abbr> | Access rights | Gap |
+| <abbr title="Managing risk from vendors you depend on. Found: no supplier review, despite reliance on AWS and Okta.">A.5.19–22</abbr> | Supplier relationships | Gap |
+| <abbr title="Planning ahead for incidents. Found: no written incident response plan.">A.5.24</abbr> | Incident planning | Gap |
+| <abbr title="Responding to incidents by following the plan. Found: no defined process.">A.5.26</abbr> | Incident response | Gap |
+| <abbr title="Background checks before hiring. Found: checks run, but there is no written policy.">A.6.1</abbr> | Screening | Partial |
+| <abbr title="Staff get security onboarding and regular training. Found: none described.">A.6.3</abbr> | Awareness and training | Gap |
+| <abbr title="Access and duties end properly when someone leaves. Found: no offboarding checklist.">A.6.5</abbr> | After termination | Gap |
+| <abbr title="Laptops and phones that reach company data are secured. Found: mixed personal and company laptops, no device policy.">A.8.1</abbr> | Endpoint devices | Gap |
+| <abbr title="Admin access is limited and controlled. Found: Okta covers most tools, but legacy dashboards sit outside it.">A.8.2</abbr> | Privileged access | Partial |
+| <abbr title="Secure logins such as SSO and MFA. Found: Okta covers most tools, not all; MFA coverage unconfirmed.">A.8.5</abbr> | Secure authentication | Partial |
+| <abbr title="Systems built from a secure, documented baseline. Unknown: Terraform is used, but baselines are unconfirmed.">A.8.9</abbr> | Configuration management | Unknown |
+| <abbr title="Events are logged for later investigation. Unknown: nobody has confirmed what is logged.">A.8.15</abbr> | Logging | Unknown |
+| <abbr title="Unusual activity is watched for. Found: the company cannot confirm whether it has had an incident, which suggests no monitoring.">A.8.16</abbr> | Monitoring | Gap |
+| <abbr title="Security is built into software development. Unknown: CI/CD exists, but enforcement is unconfirmed.">A.8.25</abbr> | Secure development | Unknown |
+| <abbr title="Defined secure coding practices. Unknown: no information on standards or scanning.">A.8.28</abbr> | Secure coding | Unknown |
