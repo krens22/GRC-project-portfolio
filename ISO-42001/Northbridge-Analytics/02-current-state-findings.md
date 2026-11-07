@@ -32,27 +32,57 @@ A.8 Technological controls — access control, secure development, logging/monit
 - The engineering environment uses GitHub, GitHub Actions, and Terraform for development and infrastructure management however no information is available on code review enforcement (A.8.25), secrets management practices (A.8.28), or secure configuration baselines for cloud infrastructure(A.8.9).
 - Employees use a mix of personal and company-issued laptops with no described device management or security policy this raises endpoint risk for a remote-first workforce (A.8.1).
 
+
+<style>
+table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 0.92rem;
+  display: block;
+  overflow-x: auto;
+}
+th, td {
+  padding: 8px 12px;
+  text-align: left;
+  vertical-align: top;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.3);
+}
+th {
+  background: rgba(128, 128, 128, 0.12);
+  font-weight: 600;
+}
+tr:nth-child(even) td {
+  background: rgba(128, 128, 128, 0.05);
+}
+td:first-child {
+  font-weight: 600;
+  white-space: nowrap;
+}
+td:last-child {
+  font-weight: 600;
+  white-space: nowrap;
+}
+</style>
+
 ## Control reference
 
-Hover over a control number for a plain-language explanation and what was found.
-
-| Control | Name | Status |
-|---|---|---|
-| <abbr title="A written, approved security policy. Found: none exists, only scattered unapproved Notion pages.">A.5.1</abbr> | Security policy | Gap |
-| <abbr title="Named people accountable for security, with backups. Found: one engineer does it informally, with no backup.">A.5.2</abbr> | Roles and responsibilities | Gap |
-| <abbr title="Rules on who may access what. Found: access is granted ad hoc, with no least-privilege standard.">A.5.15</abbr> | Access control | Gap |
-| <abbr title="Access is granted, reviewed and removed in a controlled way. Found: no access review process.">A.5.18</abbr> | Access rights | Gap |
-| <abbr title="Managing risk from vendors you depend on. Found: no supplier review, despite reliance on AWS and Okta.">A.5.19–22</abbr> | Supplier relationships | Gap |
-| <abbr title="Planning ahead for incidents. Found: no written incident response plan.">A.5.24</abbr> | Incident planning | Gap |
-| <abbr title="Responding to incidents by following the plan. Found: no defined process.">A.5.26</abbr> | Incident response | Gap |
-| <abbr title="Background checks before hiring. Found: checks run, but there is no written policy.">A.6.1</abbr> | Screening | Partial |
-| <abbr title="Staff get security onboarding and regular training. Found: none described.">A.6.3</abbr> | Awareness and training | Gap |
-| <abbr title="Access and duties end properly when someone leaves. Found: no offboarding checklist.">A.6.5</abbr> | After termination | Gap |
-| <abbr title="Laptops and phones that reach company data are secured. Found: mixed personal and company laptops, no device policy.">A.8.1</abbr> | Endpoint devices | Gap |
-| <abbr title="Admin access is limited and controlled. Found: Okta covers most tools, but legacy dashboards sit outside it.">A.8.2</abbr> | Privileged access | Partial |
-| <abbr title="Secure logins such as SSO and MFA. Found: Okta covers most tools, not all; MFA coverage unconfirmed.">A.8.5</abbr> | Secure authentication | Partial |
-| <abbr title="Systems built from a secure, documented baseline. Unknown: Terraform is used, but baselines are unconfirmed.">A.8.9</abbr> | Configuration management | Unknown |
-| <abbr title="Events are logged for later investigation. Unknown: nobody has confirmed what is logged.">A.8.15</abbr> | Logging | Unknown |
-| <abbr title="Unusual activity is watched for. Found: the company cannot confirm whether it has had an incident, which suggests no monitoring.">A.8.16</abbr> | Monitoring | Gap |
-| <abbr title="Security is built into software development. Unknown: CI/CD exists, but enforcement is unconfirmed.">A.8.25</abbr> | Secure development | Unknown |
-| <abbr title="Defined secure coding practices. Unknown: no information on standards or scanning.">A.8.28</abbr> | Secure coding | Unknown |
+| Control | Name | What it means | What we found | Status |
+|---|---|---|---|---|
+| A.5.1 | Security policy | A written, approved policy that sets security direction | None exists; only scattered, unapproved Notion pages | Gap |
+| A.5.2 | Roles and responsibilities | Named people accountable for security, with backups | One engineer does it informally; no backup | Gap |
+| A.5.15 | Access control | Rules on who may access what | Access granted ad hoc; no least-privilege standard | Gap |
+| A.5.18 | Access rights | Access is granted, reviewed and removed in a controlled way | No access review process | Gap |
+| A.5.19–22 | Supplier relationships | Managing risk from vendors you depend on | No supplier review despite reliance on AWS and Okta | Gap |
+| A.5.24 | Incident planning | Planning ahead for incidents | No written incident response plan | Gap |
+| A.5.26 | Incident response | Responding to incidents by following the plan | No defined process | Gap |
+| A.6.1 | Screening | Background checks before hiring | Checks run; no written policy | Partial |
+| A.6.3 | Awareness and training | Security onboarding and regular training | None described | Gap |
+| A.6.5 | After termination | Access and duties end properly when someone leaves | No offboarding checklist | Gap |
+| A.8.1 | Endpoint devices | Laptops and phones that reach company data are secured | Mixed personal and company laptops; no device policy | Gap |
+| A.8.2 | Privileged access | Admin access is limited and controlled | Okta covers most tools; legacy dashboards sit outside it | Partial |
+| A.8.5 | Secure authentication | Secure logins such as SSO and MFA | Okta covers most tools, not all; MFA unconfirmed | Partial |
+| A.8.9 | Configuration management | Systems built from a secure, documented baseline | Terraform used; baselines unconfirmed | Unknown |
+| A.8.15 | Logging | Events recorded for later investigation | What is logged is unconfirmed | Unknown |
+| A.8.16 | Monitoring | Watching for unusual activity | Company can't confirm whether it has had an incident, which suggests no monitoring | Gap |
+| A.8.25 | Secure development | Security built into software development | CI/CD exists; enforcement unconfirmed | Unknown |
+| A.8.28 | Secure coding | Defined secure coding practices | No information | Unknown |
