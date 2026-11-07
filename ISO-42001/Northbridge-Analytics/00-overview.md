@@ -8,15 +8,15 @@ title: Overview
 
 ## Overview
 This is a fictional GRC consulting engagement, built to demonstrate a full ISO 27001:2022 
-certification readiness assessment, extended with ISO/IEC 42001:2023 AI governance 
+certification readiness assessment, extended with ISO/IEC 42001:2023- AI governance 
 considerations given the client's in-house AI risk-scoring model.
 
-**Role:** GRC Consultant (self-directed learning project)
-**Frameworks:** ISO/IEC 27001:2022 (Annex A), ISO/IEC 42001:2023
-**Client:** Northbridge Analytics Inc. (fictional B2B SaaS company, financial services sector)
+**Role:** GRC Consultant (self-directed learning project) \n
+**Frameworks:** ISO/IEC 27001:2022 (Annex A), ISO/IEC 42001:2023 \n
+**Client:** Northbridge Analytics Inc. (fictional B2B SaaS company, financial services sector) \n
 
 ## Scenario
-Nothbridge Analytics is a 60-person B2B SaaS company that has a deadline for acheieving the ISO 27001 cert in 9 months. The company is Toronto-based and provides predictive data analytics to financial and insurance sectors. The company's platform ingests client transaction and account data to generate risk-scoring outputs. These results are used by the clients in underwriting and fraud review workflows.
+Nothbridge Analytics is a 60-person B2B SaaS company that has a deadline for **acheieving the ISO 27001 cert in 9 months. **The company is Toronto-based and provides predictive data analytics to financial and insurance sectors. The company's platform ingests client transaction and account data to generate risk-scoring outputs. These results are used by the clients in underwriting and fraud review workflows.
 
 ### Size 
 ~60 employees across engineering(25), sales and customer success(10), data and analytics(8), people and operations(5) and other executive roles. 
@@ -30,7 +30,7 @@ The company operates on a remote-first model, with employees distributed across 
 - Northbridge does not currently have a dedicated security team.
 - Security-related responsibilities have been handled informally by a senior engineer alongside their primary engineering duties for approximately the past year.
 ### Business Driver for Certifications
-- Three prospective enterprise clients — all regulated financial institutions — have indicated that ISO 27001 certification is a contractual prerequisite for vendor onboarding, as part of their third-party vendor risk management requirements. Leadership has set a 9-month target for certification readiness.
+- Three prospective enterprise clients — all regulated financial institutions — have indicated that **ISO 27001 certification is a contractual prerequisite for vendor onboarding, as part of their third-party vendor risk management requirements.** Leadership has set a 9-month target for certification readiness.
 ### Assessment history
 - An external vendor security review conducted approximately 8 months ago identified the absence of a documented incident response plan and a formal access review process.
 - These findings were acknowledged internally but have not yet been remediated.
