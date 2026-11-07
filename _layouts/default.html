@@ -29,6 +29,12 @@ img{max-width:100%;height:auto}
 <main class="wrap">
 <a class="back" href="{{ '/' | relative_url }}">Back to portfolio</a>
 {{ content }}
+{% if page.prev or page.next %}
+<nav class="pager">
+{% if page.prev %}<a href="{{ page.prev }}">← Previous</a>{% endif %}
+{% if page.next %}<a class="next" href="{{ page.next }}">Next →</a>{% endif %}
+</nav>
+{% endif %}
 </main>
 </body>
 </html>
