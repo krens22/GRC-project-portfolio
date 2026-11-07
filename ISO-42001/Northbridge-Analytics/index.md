@@ -14,3 +14,4 @@ The Northbridge Analytics gap assessment is a simulated 9-month GRC readiness pr
 - [Remediation roadmap](05-remediation-roadmap.html)
 - [ISO 42001 AI governance](06-iso-42001-ai-governance.html)
 - [Appendix - SOA](appendix-statement-of-applicability.html)
+ 
