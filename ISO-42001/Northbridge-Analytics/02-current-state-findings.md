@@ -7,9 +7,9 @@ title: current findings
 
 Annex A 2022 has 4 themes: Organizational (37 controls), People (8), Physical (14), Technological (34). For Northbridge, the highest-relevance domains are:
 
-A.5 Organizational controls — policies, roles, supplier relationships, access control policy
-A.6 People controls — screening, awareness training, responsibilities on termination
-A.8 Technological controls — access control, secure development, logging/monitoring, cryptography
+A.5 Organizational controls — policies, roles, supplier relationships, access control policy\ 
+A.6 People controls — screening, awareness training, responsibilities on termination\
+A.8 Technological controls — access control, secure development, logging/monitoring, cryptography\
 
 ### A.5 - Organizational Controls 
 - Northbridge does not maintain a formal information security policy
