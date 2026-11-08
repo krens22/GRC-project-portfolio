@@ -1,5 +1,5 @@
 ---
-title: ISO_42001 Gap Assessment - Northbridge Analytics
+title: ISO_42001 Gap Assessment - Northbridge Analytics 
 ---
 
 The Northbridge Analytics gap assessment is a simulated 9-month GRC readiness project aimed at achieving compliance with ISO/IEC 27001:2022 Annex A controls to meet vendor onboarding requirements for three regulated financial institution clients. Operating as a remote-first, 60-person B2B SaaS provider hosted entirely on AWS, the company faces critical remediation items—specifically, formalizing an incident response plan and implementing access reviews—while also extending its compliance framework to incorporate ISO/IEC 42001:2023 AI governance controls for its in-house risk-scoring underwriting model.
