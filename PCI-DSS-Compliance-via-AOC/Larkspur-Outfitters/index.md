@@ -12,4 +12,4 @@ This project is a third-party risk review of a fictional payment processor, PayS
 - [Scope findings](05-scope-findings.html)
 - [Risk Assessment](06-risk-assessment.html)
 - [Recommendations](08-recommendations.html)
-- [Appendix A](appendix-a.html)
+- [Appendix A](appendix-a.html) 
