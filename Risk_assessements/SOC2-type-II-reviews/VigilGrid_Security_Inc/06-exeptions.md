@@ -10,7 +10,7 @@
 | CC8.1 | Peer review of changes to detection rules and code | 1 of 40 sampled changes was an emergency change released without peer review | **Medium** | Partially credible |
 
 ### 6.2 Analysis of each exception
-
+ 
 **CC6.3: Delayed access removal (High).**
 Two of 25 sampled terminations kept access for 5 and 9 days against a 24-hour policy, a failure rate of 8% in the sample. Because the auditor only tested a sample of 61 terminations, other late removals may exist. The risk to Meridian is that a former contractor could retain access to systems that hold telemetry from every customer, including Meridian. Management attributes the delays to tickets routed to the wrong queue and states no unauthorized activity was identified, but it provides no evidence of how that was determined (such as a log review). Management's fix is also unstated: the response says the accounts were disabled, but not what changed to stop the misrouting. *Rating: partially credible.*
 
