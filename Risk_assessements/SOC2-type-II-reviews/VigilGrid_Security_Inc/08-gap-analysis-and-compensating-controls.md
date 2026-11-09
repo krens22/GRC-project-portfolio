@@ -1,7 +1,7 @@
 ---
 title: Gap analysis and compensating controls
-next: 06-exceptions.html
-prev: 08-gap-analysis-and-compensating-controls.html
+next: 07-CUEC-analysis.html
+prev: 09-final-recommendations-and-conditions.html
 ---
 
 ## 8. Gap analysis and compensating controls
