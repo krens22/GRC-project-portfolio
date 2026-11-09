@@ -1,3 +1,9 @@
+---
+title: Methodology
+prev: 02-scope.html
+next: 04-aoc-validation-findings.html
+---
+
 ## 3. Method
 
 1. **Collected the vendor's evidence.** Requested PayStream's AOC and Report on Compliance (ROC) through the vendor intake process.
