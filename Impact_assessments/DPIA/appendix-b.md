@@ -1,3 +1,9 @@
+---
+title: Appendix B
+prev: appendix-a.html
+next: appendix-c.html
+---
+
 ## Appendix B: Completed Questionnaires
 
 The tables below are excerpts of the completed questionnaires, showing the responses that affect risk and a sample of those that meet expectations.
@@ -47,5 +53,3 @@ The tables below are excerpts of the completed questionnaires, showing the respo
 | Training | Do staff complete security training each year? | Yes, annually with a completion record. | Meets |
 | Consent | Are unsubscribe requests honored and recorded? | Yes, within 48 hours, with an audit log. | Meets |
 | Data deletion | Can customer data be deleted on request? | Yes, within 30 days. | Meets |
-
----
