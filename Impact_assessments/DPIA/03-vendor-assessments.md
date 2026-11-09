@@ -1,3 +1,9 @@
+---
+title: Vendor Assessments
+prev: 02-vendor-inventory.html
+next: 04-risk-register.html
+---
+
 ## Section 3: Vendor Assessments
 
 ### 3.1 Approach
