@@ -1,3 +1,8 @@
+---
+title: Appendix E: References
+prev: 06-risk-register.html
+---
+
 # Appendix E: References
 
 ## Standards and frameworks
