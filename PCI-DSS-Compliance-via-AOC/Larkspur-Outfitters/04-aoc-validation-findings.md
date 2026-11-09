@@ -1,3 +1,9 @@
+---
+title: AOC Validation Findings
+prev: 03-methodology.html
+next: 05-scope-findings.html
+---
+
 ## 4. AOC Validation Findings
 
 Before relying on the AOC's scope statements, the document itself was checked for validity.
