@@ -1,3 +1,9 @@
+---
+title: Exceptions
+prev: 05-scope-and-carve-outs.html
+next: 07-CUEC-analysis.html
+---
+
 ## 6. Exceptions
 
 ### 6.1 Summary of exceptions
