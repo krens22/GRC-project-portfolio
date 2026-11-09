@@ -1,3 +1,9 @@
+---
+title: Plain-English Explanations
+prev: 04-crosswalk-table.html
+next: 06-overlaps-and-gap-analysis.html
+---
+
 ## Plain-English Explanations
 
 | # | Control | In plain English |
