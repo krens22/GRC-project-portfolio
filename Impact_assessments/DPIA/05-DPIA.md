@@ -1,3 +1,10 @@
+---
+title: Data Protection Impact Assessment(DPIA)
+prev: 04-risk-register.html
+next: appendix-a.html
+---
+
+
 ## Section 5: Data Protection Impact Assessment: PeopleMetrics
 
 ### 5.1 Purpose and Reason for the Assessment
@@ -72,4 +79,3 @@ The Privacy Lead has sought the views of the EU HR Manager and of employee repre
 | Reviewed by: Privacy Lead | | |
 | Approved by: EU HR Manager (business owner) | | |
 
----
