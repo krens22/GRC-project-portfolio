@@ -1,3 +1,8 @@
+---
+title: Appendix C
+prev: appendix-b.html
+next: appendix-d.html
+---
 ## Appendix C: Risk Register
 
 | ID | Vendor | Finding | L | I | Rating | Action owner | Opened | Due | Status |
@@ -14,5 +19,3 @@
 | F-12 | Brightwell (internal) | Free-text manager comments sent to PeopleMetrics | 1 | 3 | Medium | EU HR Manager | Oct 2026 | Jan 2027 | Open |
 | F-03 | CloudNimbus | Subcontractor list not provided proactively | 2 | 1 | Low | GRC Team | Oct 2026 | Next review | Open |
 | F-08 | PeopleMetrics | SOC 2 Type I report only | 1 | 2 | Low | GRC Team | Oct 2026 | Next review | Open |
-
----
