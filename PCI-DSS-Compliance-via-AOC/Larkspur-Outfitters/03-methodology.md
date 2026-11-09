@@ -4,7 +4,7 @@ prev: 02-scope.html
 next: 04-aoc-validation-findings.html
 ---
 
-## 3. Method
+## 3. Methodology
 
 1. **Collected the vendor's evidence.** Requested PayStream's AOC and Report on Compliance (ROC) through the vendor intake process.
 2. **Validated the AOC.** Checked that the document is current (dated within the last 12 months), assessed against the current PCI DSS version (v4.0.1), signed off by a Qualified Security Assessor (QSA), and shows an overall status of "Compliant."
