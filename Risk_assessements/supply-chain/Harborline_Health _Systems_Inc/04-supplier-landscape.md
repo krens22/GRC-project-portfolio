@@ -1,8 +1,10 @@
 ---
-title: Supplier Inventory
+title: Supplier Landscape
 prev: 03-methodology.html
 next: 05-risk-assessment-findings.html
 ---
+
+# 4. Supplier Landscape
 
 ## 4.1 Supplier Inventory
 
