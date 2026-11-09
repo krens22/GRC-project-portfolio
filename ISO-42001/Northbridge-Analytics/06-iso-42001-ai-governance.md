@@ -1,4 +1,8 @@
-[Back](./)
+---
+title: ISO-42001 AI Governance
+prev: 05-remediation-roadmap.html
+next: appendix-statement-of-applicability.html
+---
 
 
 ## Gap Analysis: ISO 42001 AI Governance
