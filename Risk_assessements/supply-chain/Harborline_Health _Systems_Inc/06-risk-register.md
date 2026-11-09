@@ -1,7 +1,7 @@
 ---
 title: Risk Register and Heat Map
 prev: 05-risk-assessment-findings.html
-next: 07-references-appendix-e..html
+next: 07-references-appendix-e.html
 ---
 
 # 6. Risk Register and Heat Map
