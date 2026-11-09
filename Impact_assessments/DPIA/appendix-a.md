@@ -1,3 +1,9 @@
+---
+title: Appendix A
+prev: 05-DPIA.html
+next: appendix-b.html
+---
+
 ## Appendix A: Vendor Inventory
 
 ### A.1 Core Details
@@ -29,5 +35,3 @@
 | MeetSphere | Short 10-question form | No | Not started | Pending | October 2028 |
 | OfficeBrew | Basic onboarding check | No | Complete | Low | At onboarding only |
 | PixelStock | Basic onboarding check | No | Complete | Low | At onboarding only |
-
----
