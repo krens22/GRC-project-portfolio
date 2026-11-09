@@ -1,3 +1,9 @@
+---
+title: References
+prev: 08-gap-analysis-and-compensating-controls.html
+next: 10-references.html
+---
+
 ## 10. References
 
 ### 10.1 Standards and frameworks
