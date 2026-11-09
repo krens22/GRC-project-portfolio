@@ -1,3 +1,9 @@
+---
+title: Gap analysis and compensating controls
+next: 06-exceptions.html
+prev: 08-gap-analysis-and-compensating-controls.html
+---
+
 ## 8. Gap analysis and compensating controls
 
 ### 8.1 Gap register
