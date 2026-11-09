@@ -1,3 +1,8 @@
+---
+title: Appendix D
+prev: appendix-c.html
+---
+
 ## Appendix D: Data Flow Diagram
 
 <img width="1326" height="715" alt="image" src="https://github.com/user-attachments/assets/700cb4b9-d8d0-4357-9728-d90c1663f0c7" />
