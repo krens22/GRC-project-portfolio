@@ -1,3 +1,8 @@
+---
+title: Appendix A
+prev: 10-references.html
+---
+
 ## Appendix A: SOC 2 Type II report excerpts (fictional)
 
 > *These excerpts were constructed for this portfolio exercise. VigilGrid Security Inc., Harcourt & Lindqvist LLP, and all report contents are fictional. They are condensed from the format of a real SOC 2 Type II report.*
