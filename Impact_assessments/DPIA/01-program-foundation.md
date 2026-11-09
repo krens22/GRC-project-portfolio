@@ -1,3 +1,9 @@
+---
+title: Program Foundation
+prev: 00-Overview-and-summary.html
+next: 02-vendor-inventory.html
+---
+
 ## Section 1: Program Foundation
 
 ### 1.1 Purpose
@@ -59,5 +65,3 @@ Vendors are reviewed on the schedule in 1.4. A vendor is also reassessed immedia
 - changes what data it handles or where the data is stored,
 - changes subcontractors that handle Brightwell data, or
 - is acquired by another company.
-
----
