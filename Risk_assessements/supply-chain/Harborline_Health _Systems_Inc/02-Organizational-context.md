@@ -1,3 +1,9 @@
+---
+title: Organizational Context
+prev: 01-Introduction-and-scope.html
+next: 03-methodology.html
+---
+
 # 2. Organizational Context
 
 ## 2.1 Company Profile
