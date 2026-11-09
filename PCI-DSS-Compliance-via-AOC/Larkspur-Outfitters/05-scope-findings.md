@@ -1,3 +1,9 @@
+---
+title: Scope Findings
+prev: 04-aoc-validation-findings.html
+next: 06-risk-assessment.html
+---
+
 ## 5. Scope Findings
 
 Each service Larkspur needs (Section 3) was compared against the services PayStream's AOC lists as assessed (Appendix A, Parts 2a and 2b).
