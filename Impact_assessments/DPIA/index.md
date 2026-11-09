@@ -2,7 +2,7 @@
 title: DPIA(Data Protection Impact Assessment)
 ---
  
-The Northbridge Analytics gap assessment is a simulated 9-month GRC readiness project aimed at achieving compliance with ISO/IEC 27001:2022 Annex A controls to meet vendor onboarding requirements for three regulated financial institution clients. Operating as a remote-first, 60-person B2B SaaS provider hosted entirely on AWS, the company faces critical remediation items—specifically, formalizing an incident response plan and implementing access reviews—while also extending its compliance framework to incorporate ISO/IEC 42001:2023 AI governance controls for its in-house risk-scoring underwriting model.
+This project builds a third-party risk management program from scratch for Brightwell Home, a fictional online retailer of sustainable home goods with offices in Toronto and Dublin and customers in Canada, the EU, and California. It defines how vendors are scoped and sorted into four risk tiers, records ten vendors in a central inventory, and assesses three of them (CloudNimbus, PeopleMetrics, and MailBloom) using the SIG Lite and CSA CAIQ questionnaires. The weaknesses found are rated by likelihood and impact in a risk register of twelve findings (one Critical, five High, four Medium, and two Low), each with a remediation action and deadline. Because PeopleMetrics sends EU employee data to the US and scores employees automatically, the project also includes a Data Protection Impact Assessment (DPIA) under GDPR, and the report closes with an executive summary that sets out the decisions needed from leadership.
 
 
 ## Sections
