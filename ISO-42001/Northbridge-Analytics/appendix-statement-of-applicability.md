@@ -1,4 +1,8 @@
-[Back](./)
+---
+title: ISO-42001 AI Governance
+prev: 06-iso-42001-ai-governance.html
+---
+
 
 ## Appendix — Statement of Applicability
 
