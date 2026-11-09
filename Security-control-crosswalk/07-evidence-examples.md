@@ -1,3 +1,9 @@
+---
+title: Evidence Examples
+prev: 06-overlaps-and-gap-analysis.html
+next: 08-key-takeaways-and-limitations.html
+---
+
 ## Evidence Examples
 
 The table below gives one example of evidence an auditor would typically request for each control. Actual requests vary by auditor and scope.
