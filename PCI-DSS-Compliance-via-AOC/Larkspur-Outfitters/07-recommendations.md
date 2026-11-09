@@ -1,3 +1,9 @@
+---
+title: Recommendations
+prev: 06-risk-assessment.html
+next: appendix-a.html
+---
+
 ## 7. Recommendations
 
 ### Decision: Conditional Approval
