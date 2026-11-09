@@ -1,3 +1,9 @@
+---
+title: Report validity
+prev: 03-evidence-reviewed.html
+next: 05-scope-and-carve-outs.html
+---
+
 ## 4. Report validity
 
 | Check | Finding | Assessment |
