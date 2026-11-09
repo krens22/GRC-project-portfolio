@@ -1,9 +1,10 @@
-# 1. Introduction and Scope
-<details>
-  <summary>Notes</summary>
-  <p>why does this report exist, what does it cover, what doesn't it cover, and what should I keep in mind while reading it?.</p>
-</details>
+---
+title: Document Control
+prev: 00-document-control.html
+next: 02-Organizational-context.html
+---
 
+# 1. Introduction and Scope
 
 ## 1.1 Purpose
 Harborline relies on third-party suppliers and vendors  for storing and processing approx. 1.5 million patient information on their platform from cloud hosting to security providers. Because this data is protected under Ontario's Personal Health Information Protection Act **(PHIPA)**, a failure at any supplier could create legal and privacy consequences for Harborline and its customers. This report aims to assess cybersecurity and privacy risks that could potentially arise from these vendors so that leadership can properly manage them and make informed descisions. 
