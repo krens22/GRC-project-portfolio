@@ -1,4 +1,10 @@
-[Back](./)
+---
+title: Gap Analysis
+prev: 02-current-state-findings.html
+next: 04-risk-register.html
+---
+
+
 ## Gap Analysis
 This section judges those observations against ISO/IEC 27001:2022 Annex A, rating how well each control is currently in place. The ratings feed the risk register in Section 4, where each gap is translated into a business risk and prioritized.
 
