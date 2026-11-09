@@ -1,4 +1,10 @@
-## 7. CUEC analysis
+---
+title: CUEC (Complementary User Entity Control) analysis
+next: 06-exceptions.html
+prev: 08-gap-analysis-and-compensating-controls.html
+---
+
+## 7. CUEC (Complementary User Entity Control) analysis
 
 ### 7.1 Summary of CUECs
 
