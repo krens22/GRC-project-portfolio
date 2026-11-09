@@ -1,3 +1,8 @@
+---
+title: Key Takeaways
+prev: 07-evidence-examples.html
+---
+
 ## Key Takeaways
 
 - **One control can serve several audits.** All 10 controls in this crosswalk map to at least three of the four frameworks, so building each control once and reusing the evidence saves effort.
