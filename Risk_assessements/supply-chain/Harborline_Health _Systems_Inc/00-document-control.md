@@ -1,9 +1,7 @@
-<details>
-<summary><b>Footnotes</b></summary>
-
-It follows the logic of a real risk assessment: what are we assessing and why (Sections 1-2), how (Section 3), what did we find (Sections 4-7), what do we do about it (Sections 8-9).
-
-</details>
+---
+title: Document Control
+next: 01-Introduction-and-scope.html
+---
 
 ## Company Fact sheet
 
