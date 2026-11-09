@@ -1,3 +1,9 @@
+---
+title: Supplier Inventory
+prev: 03-methodology.html
+next: 05-risk-assessment-findings.html
+---
+
 ## 4.1 Supplier Inventory
 
 Harborline's supplier inventory contains 12 suppliers. Eleven support the patient platform and are assessed in this report. One, PayrollPoint HR, is excluded because it handles employee data only and does not support the platform.
