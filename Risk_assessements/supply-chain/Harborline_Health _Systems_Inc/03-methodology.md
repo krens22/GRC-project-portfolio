@@ -1,8 +1,8 @@
-<details>
-  <summary>Notes</summary>
-  <p>It defines the scoring rules, and every later section depends on it. Once it's written, don't change it mid-report, or your scores stop being comparable.</p>
-</details> 
-
+---
+title: Methodology
+prev: 02-Organizational-context.html
+next: 04-supplier-landscape.html
+---
 
 # 3. Methodology
 
