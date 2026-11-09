@@ -1,4 +1,8 @@
-[Back](./)
+---
+title: Risk Register
+prev: 03-gap-analysis-annex-a.html
+next: 05-remediation-roadmap.html
+---
 
 ## Risk Register
 
