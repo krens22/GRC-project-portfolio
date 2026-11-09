@@ -1,3 +1,9 @@
+---
+title: Methodology
+prev: 01-purpose-and-scope.html
+next: 03-company-context.html
+---
+
 # Methodology
 
 Key terms
