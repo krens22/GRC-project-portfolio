@@ -1,3 +1,9 @@
+---
+title: Vendor Inventory
+prev: 01-program-foundation.html
+next: 03-vendor-assessments.html
+---
+
 ## Section 2: Vendor Inventory
 
 ### 2.1 Purpose and Maintenance
@@ -37,5 +43,3 @@ Three vendors are Tier 1, three are Tier 2, two are Tier 3, and two are Tier 4. 
 
 **Tiering outcome.** MeetSphere is placed in Tier 3 rather than Tier 4. It has no access to Brightwell systems, but it can capture confidential discussions, and under Section 1.4 the highest-risk answer decides the tier. PeopleMetrics is placed in Tier 2 rather than Tier 1 because an outage would not stop sales or payroll. Its processing of EU employee performance data is addressed through the DPIA process in Section 5, and not through the tier.
 
-
----
