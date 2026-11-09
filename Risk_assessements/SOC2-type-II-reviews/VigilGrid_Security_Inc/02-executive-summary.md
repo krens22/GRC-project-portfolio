@@ -1,3 +1,9 @@
+---
+title: Executive summary
+prev: 01-Header-and-engagement-overview.html
+next: 03-evidence-reviewed.html
+---
+
 ## 2. Executive summary
 
 Meridian Logistics' security team has asked to engage VigilGrid Security Inc. for 24/7 managed detection and response. Because VigilGrid's software would run with elevated privileges on every Meridian endpoint, the vendor is rated Tier 1 (Critical). This review assessed VigilGrid's SOC 2 Type II report (October 1, 2025 to March 31, 2026) for reliability, scope, exceptions, and customer responsibilities.
