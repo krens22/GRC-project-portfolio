@@ -1,3 +1,8 @@
+---
+title: Header and Engagement
+next: 02-executive-summary.html
+---
+
 # Third-Party Risk Review: VigilGrid Security Inc.
 **SOC 2 Type II Report Review and Gap Analysis**
 
