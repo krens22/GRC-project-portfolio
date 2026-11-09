@@ -1,7 +1,7 @@
 ---
 title: Scope and methodology
-prev: 00-document-control.html
-next: 02-Organizational-context.html
+prev: 00-overview.html
+next: 02-current-state-findings.html
 ---
 
 
