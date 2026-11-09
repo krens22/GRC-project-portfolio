@@ -1,3 +1,9 @@
+---
+title: Risk Assessment Findings
+prev: 04-supplier-landscape.html
+next: 06-risk-register.html
+---
+
 # 5. Risk Assessment Findings
 
 This section presents the risks identified for each in-scope supplier. Tier 1 and Tier 2 suppliers are assessed in detail (Section 5.2); Tier 3 and Tier 4 suppliers receive a light-touch review (Section 5.3). Risks are scored using the model in Section 3.4 and rated using the thresholds in Section 3.5. Each finding states the condition observed, the standard it is measured against, the resulting risk, and a recommendation.
