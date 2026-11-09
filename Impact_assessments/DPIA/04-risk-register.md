@@ -1,3 +1,9 @@
+---
+title: Risk register and remediation
+prev: 03-vendor-assessments.html
+next: 05-DPIA.html
+---
+
 ## Section 4: Risk Register and Remediation
 
 ### 4.1 Rating Method
@@ -52,4 +58,3 @@ The register contains twelve findings: ten from vendor assessments and two inter
 
 The register is maintained in a spreadsheet (Appendix C) with additional columns for the date opened, action owner, status, and due date. The GRC team reviews open findings monthly, and closed findings are kept for audit purposes.
 
----
