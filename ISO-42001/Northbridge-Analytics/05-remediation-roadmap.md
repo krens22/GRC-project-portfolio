@@ -1,5 +1,9 @@
 
-[Back](./)
+---
+title: Remediation Roadmap
+prev: 04-risk-register.html
+next: 06-iso-42001-ai-governance.html
+--- 
 
 ## Section 5: Remediation Roadmap
 
