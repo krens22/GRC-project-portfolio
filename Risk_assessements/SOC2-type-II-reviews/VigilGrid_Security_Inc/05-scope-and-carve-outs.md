@@ -1,3 +1,9 @@
+---
+title: Scope
+prev: 04-report-validity.html
+next: 06-exceptions.html
+---
+
 ## 5. Scope and carve-outs
 
 ### 5.1 Service scope: what the audit covers versus what Meridian needs
