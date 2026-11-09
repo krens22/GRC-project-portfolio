@@ -1,3 +1,9 @@
+---
+title: Final recommendation
+prev: 08-gap-analysis-and-compensating-controls.html
+next: 10-references.html
+---
+
 ## 9. Final recommendation
 
 ### 9.1 Recommendation
