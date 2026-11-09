@@ -1,3 +1,9 @@
+---
+title: Appendix A
+prev: 07-recommendations.html
+
+---
+
 ## Appendix A: PayStream Solutions AOC (Fictional Excerpt)
 
 > **Note:** This is a fictional document created for portfolio purposes. It is modeled on the PCI SSC AOC for Service Providers but is not an official form.
