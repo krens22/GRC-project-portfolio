@@ -1,7 +1,8 @@
 ---
 title: Overview
+next:01-scope-methodology.html
 ---
-[Back](./) 
+
 
 # ISO 27001 & ISO 42001 Gap Assessment — Northbridge Analytics
 
@@ -20,20 +21,26 @@ Nothbridge Analytics is a 60-person B2B SaaS company that has a deadline for **a
 
 ### Size 
 ~60 employees across engineering(25), sales and customer success(10), data and analytics(8), people and operations(5) and other executive roles. 
+
 ### Structure
 The company operates on a remote-first model, with employees distributed across Canada and a small US presence.
+
 ### Technology and environment
 - The platform is hosted entirely on AWS in a multi-tenant SaaS architecture.
 - Engineering workflows use GitHub for version control and GitHub Actions for CI/CD, with infrastructure managed via Terraform.
 - Most internal tools are federated through Okta SSO, though several legacy internal applications (administrative dashboards, internal reporting tools) remain outside this integration.
+  
 ### Security Function
 - Northbridge does not currently have a dedicated security team.
 - Security-related responsibilities have been handled informally by a senior engineer alongside their primary engineering duties for approximately the past year.
+  
 ### Business Driver for Certifications
 - Three prospective enterprise clients — all regulated financial institutions — have indicated that **ISO 27001 certification is a contractual prerequisite for vendor onboarding, as part of their third-party vendor risk management requirements.** Leadership has set a 9-month target for certification readiness.
+  
 ### Assessment history
 - An external vendor security review conducted approximately 8 months ago identified the absence of a documented incident response plan and a formal access review process.
 - These findings were acknowledged internally but have not yet been remediated.
+  
 ### AI system description
 - Northbridge's risk scoring model is an in-house predictive model trained on aggregated historical client transaction data, deployed for approximately 18 months, and used directly in client underwriting and fraud-review decisions.
 
