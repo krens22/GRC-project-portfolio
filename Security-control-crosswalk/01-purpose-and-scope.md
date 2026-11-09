@@ -1,3 +1,8 @@
+---
+title: Appendix E: References
+next: 02-methodology.html
+---
+
 # Purpose
 A control crosswalk is a table that shows how one security control can satisfy requirements in several compliance frameworks at the same time. For example, enforcing multi-factor authentication helps meet requirements in SOC 2, ISO 27001, PCI DSS, and GDPR all at once.
 Organizations that handle customer data and take card payments often face all four of these frameworks together. Building a separate set of controls for each one wastes time, money, and effort, and it creates confusion about which control belongs to which audit.
