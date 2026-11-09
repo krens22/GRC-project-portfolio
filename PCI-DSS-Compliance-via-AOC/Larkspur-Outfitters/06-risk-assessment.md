@@ -1,3 +1,9 @@
+---
+title: Risk Assessment
+prev: 05-scope-findings.html
+next: 07-recommendations.html
+---
+
 ## 7. Risk Assessment
 
 ### Rating Method
