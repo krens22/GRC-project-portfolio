@@ -4,7 +4,7 @@ prev: 01-summary-and-business-context.html
 next: 03-methodology.html
 ---
 
-## 3. Scope of Review
+## 2. Scope of Review
 
 ### Services Larkspur Needs from PayStream
 
